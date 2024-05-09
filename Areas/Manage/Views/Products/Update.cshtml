@@ -1,0 +1,33 @@
+﻿@using mvc_1.Models
+@model Product
+
+<div class="container">
+    <form method="post">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control">
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Price" class="form-label">Price</label>
+            <input asp-for="Price" class="form-control">
+            <span asp-validation-for="Price"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <input asp-for="Description" class="form-control">
+            <span asp-validation-for="Description"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="PhotoUrl" class="form-label">PhotoUrl</label>
+            <input asp-for="PhotoUrl" class="form-control">
+
+        </div>
+        <div class="mb-3">
+            <label asp-for="Category" class="form-label">Category</label>
+            <input asp-for="Category" class="form-control">
+
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

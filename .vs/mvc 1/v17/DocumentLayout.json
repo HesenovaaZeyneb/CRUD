@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserHome\\Desktop\\mvc 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|c:\\users\\userhome\\desktop\\mvc 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E2AA828-DDD7-4EAA-840B-259904EFF6BC}|mvc 1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Products\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Products\\Update.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Products\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Products\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:21:06.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Manage\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAtwD0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:33:52.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T17:58:08.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T14:46:27.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T13:41:57.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAD4vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T16:12:49.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAD4vzQBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T20:09:19.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Areas\\Manage\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA9wDAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:58:43.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T18:48:32.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-08T20:04:50.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAD4vx0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:44:36.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Home\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgCAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T19:09:57.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:45:01.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:45:11.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:46:48.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:44:43.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T14:17:19.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAD4vxwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T14:00:11.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T20:45:01.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T19:22:29.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:08:30.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAOIEAAAAAAAAAAAUwPoEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T18:48:12.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAD4v5QAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T20:43:59.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UserHome\\Desktop\\mvc 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHYHAAAAAAAAAAD4v4MHAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T18:47:58.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
